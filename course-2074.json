@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-pig7selene",
-  "commit": "fbc76b212da64aaa0c648b46c9abf8c6a2e5ae5f",
-  "score": 43,
+  "commit": "4da375d7e8eb337b08d628ffb18dd1e38851d0d0",
+  "score": 47,
   "totalScore": 100,
   "exercises": [
     {
@@ -79,9 +79,9 @@
     {
       "name": "atomic_ordering",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "spinlock",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "pig7selene",
-  "runId": "37898479175",
+  "runId": "37900038777",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
