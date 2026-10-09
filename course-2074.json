@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-pig7selene",
-  "commit": "4bf3babdea9381d279ca948441e6263c71031edf",
-  "score": 34,
+  "commit": "fbc76b212da64aaa0c648b46c9abf8c6a2e5ae5f",
+  "score": 43,
   "totalScore": 100,
   "exercises": [
     {
@@ -65,16 +65,16 @@
     {
       "name": "fd_table",
       "max": 5,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 5,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "atomic_counter",
       "max": 4,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 4,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "atomic_ordering",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "pig7selene",
-  "runId": "37622584056",
+  "runId": "37898479175",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
